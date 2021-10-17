@@ -1,0 +1,16 @@
+C:\Users\Matty\botomat\botomat\bin\Debug\net5.0\botomat.exe
+C:\Users\Matty\botomat\botomat\bin\Debug\net5.0\botomat.deps.json
+C:\Users\Matty\botomat\botomat\bin\Debug\net5.0\botomat.runtimeconfig.json
+C:\Users\Matty\botomat\botomat\bin\Debug\net5.0\botomat.runtimeconfig.dev.json
+C:\Users\Matty\botomat\botomat\bin\Debug\net5.0\botomat.dll
+C:\Users\Matty\botomat\botomat\bin\Debug\net5.0\ref\botomat.dll
+C:\Users\Matty\botomat\botomat\bin\Debug\net5.0\botomat.pdb
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\botomat.csproj.AssemblyReference.cache
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\botomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\botomat.AssemblyInfoInputs.cache
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\botomat.AssemblyInfo.cs
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\botomat.csproj.CoreCompileInputs.cache
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\botomat.dll
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\ref\botomat.dll
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\botomat.pdb
+C:\Users\Matty\botomat\botomat\obj\Debug\net5.0\botomat.genruntimeconfig.cache
