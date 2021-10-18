@@ -59,7 +59,6 @@ namespace BotOMat
                         Robot.CreateRobot();
                         return true;
                     case 2:
-                        Robot.robotsList = Robot.robotsList.OrderBy(x => x.TimeElapsed).ToList();
                         Robot.DisplayRobots();
                         return true;
                     case 3:

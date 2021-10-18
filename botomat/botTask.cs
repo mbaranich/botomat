@@ -44,7 +44,6 @@ namespace BotOMat
         public void Perform()
         {
             Console.WriteLine($"  - Peforming Task: {Name} with {Duration} and {Index}");
-            //Console.WriteLine($"  - Peforming Task: {Name.GetDescription()} with {Duration} and {TaskType}");
         }
     }
 

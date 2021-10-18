@@ -90,7 +90,9 @@ namespace BotOMat
 
         public static void DisplayRobots()
         {
-            //List<Robot.robotsList> newList = robotsList.OrderBy(o => o.TimeElapsed).ToList();
+
+            //Sort robots list by time elapsed.
+            Robot.robotsList = Robot.robotsList.OrderByDescending(x => x.TimeElapsed).ToList();
             
             foreach (var robot in robotsList)
             {
